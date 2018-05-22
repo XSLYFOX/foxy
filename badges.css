@@ -271,19 +271,19 @@
 .avatar-large[style*="391171067474870273"]+.comment .username-wrapper::before,
 .avatar-large[style*="206116276161085441"]+.comment .username-wrapper::before,
 /*--- channel members wrap ---*/
-.avatar-large[style*="206737209787678720"]+.comment .username-wrapper::before,
+.avatar-small[style*="206737209787678720"]+.member-inner .member-username::before,
 .avatar-small[style*="185010208727236608"]+.member-inner .member-username::before,
 .avatar-small[style*="177497326762459136"]+.member-inner .member-username::before,
 .avatar-small[style*="391171067474870273"]+.member-inner .member-username::before,
 .avatar-small[style*="206116276161085441"]+.member-inner .member-username::before,
 /*--- friends list ---*/
-.avatar-large[style*="206737209787678720"]+.comment .username-wrapper::before,
+.avatar-small[style*="206737209787678720"]+.discord-tag .username::before,
 .avatar-small[style*="185010208727236608"]+.discord-tag .username::before,
 .avatar-small[style*="177497326762459136"]+.discord-tag .username::before,
 .avatar-small[style*="391171067474870273"]+.discord-tag .username::before,
 .avatar-small[style*="206116276161085441"]+.discord-tag .username::before,
 /*--- user profile friends list ---*/
-.avatar-large[style*="206737209787678720"]+.comment .username-wrapper::before,
+.avatar-large[style*="206737209787678720"]+.guild-inner .username::before,
 .avatar-large[style*="185010208727236608"]+.guild-inner .username::before,
 .avatar-large[style*="177497326762459136"]+.guild-inner .username::before,
 .avatar-large[style*="391171067474870273"]+.guild-inner .username::before,
