@@ -98,6 +98,14 @@
 }
 
 /* Staff special labels */
+
+.avatar-large[style*="206116276161085441"]+.comment .timestamp::before {
+    content: 'Admin';
+    border-color: #ff6395;
+    background: #b82553;
+    box-shadow: 0 0 5px 1px #9e1842, inset 0 0 10px rgba(158,24,66, 0.7);
+}
+
 .avatar-large[style*="206737209787678720"]+.comment .timestamp::before {
     content: 'Fondateur';
     border-color: #ff6395;
@@ -120,13 +128,6 @@
 }
 
 .avatar-large[style*="391171067474870273"]+.comment .timestamp::before {
-    content: 'Admin';
-    border-color: #ff6395;
-    background: #b82553;
-    box-shadow: 0 0 5px 1px #9e1842, inset 0 0 10px rgba(158,24,66, 0.7);
-}
-
-.avatar-large[style*="206116276161085441"]+.comment .timestamp::before {
     content: 'Admin';
     border-color: #ff6395;
     background: #b82553;
